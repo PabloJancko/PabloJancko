@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋 I'm Pablo
 
-<!--
-**PabloJancko/PabloJancko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Student of Computer Science Engineering
+- 🤖 I'm interested in **Artificial Intelligence** and currently working with datasets in **Machine Learning**.
+- 🌐 Currently studying **Data Networks**, **Web Technologies**, and **Technological Platforms**.
+- 
+### 🛠️ Technologies and Tools:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- Programming languages: Python, JavaScript, C++
+- Web development: HTML, CSS, JavaScript
+- Frameworks and libraries: React, Bootstrap
+- Databases: SQLite, MySQL
+- Other tools: Git, GitHub, Visual Studio Code, Postman, Packet Tracer
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
